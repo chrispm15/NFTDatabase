@@ -1,7 +1,7 @@
 # NFTDatabase
 Grabs data from OpenSea and appends it to a Google Sheet.
 
-#how-to
+# how-to
 
   - Obtain a Google .json authorization file
   - Enable both Google Sheets and Google Drive API
